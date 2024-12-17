@@ -1,0 +1,12 @@
+2024-12-10 03:22:24,985-basePage.py-INFO-https://test.skywayplatform.com/skyway-platform/login?tenantCode=1284
+2024-12-10 03:22:37,723-loginPage.py-DEBUG-admin
+2024-12-10 03:22:37,724-loginPage.py-DEBUG-d5eFYHi!PNf3Bk~
+2024-12-10 03:23:03,205-tabOperation.py-DEBUG-Analysis
+2024-12-10 03:23:03,218-tabOperation.py-DEBUG-Dashboard
+2024-12-10 03:23:03,231-tabOperation.py-DEBUG-APP Insight
+2024-12-10 03:23:03,245-tabOperation.py-DEBUG-TV Insight
+2024-12-10 03:23:03,258-tabOperation.py-DEBUG-Management
+2024-12-10 03:23:03,271-tabOperation.py-DEBUG-Devices
+2024-12-10 03:23:14,404-basePage.py-DEBUG-没有这样的元素存在.m1-2.v-btn.v-btn--icon.v-btn--round.theme--light.v-size--smal1
+2024-12-10 03:23:25,423-basePage.py-DEBUG-没有这样的元素存在input-5200
+2024-12-10 03:23:25,423-managementPages.py-DEBUG-'NoneType' object has no attribute 'send_keys'

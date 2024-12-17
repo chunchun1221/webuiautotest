@@ -1,0 +1,5 @@
+2024-12-10 00:55:52,765-basePage.py-INFO-https://test.skywayplatform.com/skyway-platform/login?tenantCode=1284
+2024-12-10 00:56:40,217-loginPage.py-DEBUG-Username: admin, Password: d5eFYHi!PNf3Bk~
+2024-12-10 00:56:47,926-basePage.py-DEBUG-type object 'By' has no attribute 'CSS SELECTOR'
+2024-12-10 00:56:47,926-loginPage.py-ERROR-AttributeError during login: 'NoneType' object has no attribute 'click'
+2024-12-10 00:56:48,941-basePage.py-DEBUG-type object 'By' has no attribute 'CSS SELECTOR'

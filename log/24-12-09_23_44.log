@@ -1,0 +1,5 @@
+2024-12-09 23:45:00,254-basePage.py-INFO-https://test.skywayplatform.com/skyway-platform/login?tenantCode=1284
+2024-12-09 23:45:11,481-loginPage.py-DEBUG-admin
+2024-12-09 23:45:11,481-loginPage.py-DEBUG-d5eFYHi!PNf3Bk~
+2024-12-09 23:45:15,828-loginPage.py-INFO-'WebElement' object has no attribute 'clicsk'
+2024-12-09 23:45:21,366-basePage.py-INFO-https://test.skywayplatform.com/skyway-platform/login?tenantCode=1284

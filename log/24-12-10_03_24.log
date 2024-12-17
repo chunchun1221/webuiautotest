@@ -1,0 +1,11 @@
+2024-12-10 03:24:53,840-tabOperation.py-DEBUG-Analysis
+2024-12-10 03:24:53,852-tabOperation.py-DEBUG-Dashboard
+2024-12-10 03:24:53,864-tabOperation.py-DEBUG-APP Insight
+2024-12-10 03:24:53,876-tabOperation.py-DEBUG-TV Insight
+2024-12-10 03:24:53,888-tabOperation.py-DEBUG-Management
+2024-12-10 03:24:53,899-tabOperation.py-DEBUG-Devices
+2024-12-10 03:25:08,901-basePage.py-DEBUG-没有这样的元素存在input-5200
+2024-12-10 03:25:08,902-managementPages.py-DEBUG-'NoneType' object has no attribute 'send_keys'
+03:24:53,899-tabOperation.py-DEBUG-Devices
+2024-12-10 03:25:08,901-basePage.py-DEBUG-没有这样的元素存在input-5200
+2024-12-10 03:25:08,902-managementPages.py-DEBUG-'NoneType' object has no attribute 'send_keys'

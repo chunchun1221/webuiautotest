@@ -1,0 +1,12 @@
+2024-12-10 01:43:06,776-basePage.py-INFO-https://test.skywayplatform.com/skyway-platform/login?tenantCode=1284
+2024-12-10 01:43:11,546-loginPage.py-DEBUG-admin
+2024-12-10 01:43:11,547-loginPage.py-DEBUG-d5eFYHi!PNf3Bk~
+2024-12-10 01:43:17,159-loginPage.py-DEBUG-admin
+2024-12-10 01:43:17,160-loginPage.py-DEBUG-d5eFYHi!PNf4Bk~
+2024-12-10 01:43:33,675-basePage.py-DEBUG-没有这样的元素存在.v-messages__message
+2024-12-10 01:43:33,683-loginPage.py-DEBUG-11
+2024-12-10 01:43:33,683-loginPage.py-DEBUG-d5eFYHi!PNf5Bk~
+2024-12-10 01:43:44,756-basePage.py-DEBUG-没有这样的元素存在input-15
+2024-12-10 01:43:44,757-loginPage.py-ERROR-'NoneType' object has no attribute 'send_keys'
+�这样的元素存在input-15
+2024-12-10 01:43:44,757-loginPage.py-ERROR-'NoneType' object has no attribute 'send_keys'

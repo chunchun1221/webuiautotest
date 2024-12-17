@@ -1,0 +1,11 @@
+2024-12-10 01:46:38,083-basePage.py-INFO-https://test.skywayplatform.com/skyway-platform/login?tenantCode=1284
+2024-12-10 01:46:42,972-loginPage.py-DEBUG-admin
+2024-12-10 01:46:42,972-loginPage.py-DEBUG-d5eFYHi!PNf3Bk~
+2024-12-10 01:46:48,546-loginPage.py-DEBUG-admin
+2024-12-10 01:46:48,547-loginPage.py-DEBUG-d5eFYHi!PNf4Bk~
+2024-12-10 01:47:02,708-basePage.py-DEBUG-('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-12-10 01:47:02,716-loginPage.py-DEBUG-11
+2024-12-10 01:47:02,717-loginPage.py-DEBUG-d5eFYHi!PNf5Bk~
+ 10054, None))
+2024-12-10 01:47:02,716-loginPage.py-DEBUG-11
+2024-12-10 01:47:02,717-loginPage.py-DEBUG-d5eFYHi!PNf5Bk~
